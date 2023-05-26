@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostof1337projects&label=Profile%20views&color=0e75b6&style=flat" alt="ghostof1337projects" /> </p>
 
-- 🔭 I’m currently working on **A clock program**
+- 🔭 I’m currently working on **a antivirus app**
 
 - 🌱 I’m currently learning **C++**
 

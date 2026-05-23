@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostof1337projects&label=Profile%20views&color=0e75b6&style=flat" alt="ghostof1337projects" /> </p>
 
-- 🔭 I’m currently working on **Barletta dB checker**
+- 🔭 I’m currently working on **NeuroSense**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghostof1337projects](https://github.com/ghostof1337projects)
 
